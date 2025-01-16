@@ -16,7 +16,7 @@
 8. Uso del ***return***
 
 # Metodos y propiedades
-- ***Classlist*** y ***toggle*** para manipular las clases de un elemento JavaScript
+- ***Classlist*** y ***toggle*** para manipular las clases de un elemento desde JavaScript
 - ***parentNode*** para definir elementos padre
 - ***remove.child*** para eliminar elementos hijo
 - ***addEventListener*** para agregar eventos de click y teclas en elementos del HTML
